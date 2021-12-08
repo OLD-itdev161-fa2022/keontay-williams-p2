@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+# Dependencies
+run `npm install` &
+`npm install jquery`
+
+# Launch
+
 ### `npm start`
 
 Runs the app in the development mode.\
